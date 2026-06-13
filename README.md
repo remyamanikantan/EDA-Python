@@ -21,6 +21,14 @@ The dataset profiles comprehensive criminal statistics compiled through records 
 > ⚠️ **Note on Data Source:** Because the raw dataset file (`Crime.csv`) is hosted externally. You must download the dataset from Kaggle before running the notebook. Data can be downloaded from https://www.kaggle.com/datasets/ameeraabdi/montgomery-crime-dataset?select=Crime.csv
 
 ---
+## Dashboard Preview
+
+![Crime Trend](images/crime_trend.png)
+
+![Crime Category Distribution](images/crime_category.png)
+
+![Hourly Crime Analysis](images/hourly_crime.png)
+---
 
 ## 🚀 Key Insights & Analytics Derived
 - **Temporal Trends:** Crime occurrences inside Montgomery County reflect a steady visual decrease since their baseline peaks highlighted in the year **2017**.
