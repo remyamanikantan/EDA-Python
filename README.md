@@ -1,6 +1,6 @@
 # EDA-Python
 
-# Montgomery County Crime Data Analysis Using Python 📊
+# Montgomery County Crime Data Analysis Using Python 
 
 This project demonstrates an end-to-end Exploratory Data Analysis (EDA) of crime incidents reported in Montgomery County, Maryland. Using Python, the analysis focuses on identifying crime patterns, trends, high-risk locations, and peak occurrence periods to better understand public safety dynamics and support data-driven decision-making.
 
@@ -8,7 +8,7 @@ The project includes data cleaning, feature engineering, statistical analysis, a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python**
 * **Pandas & NumPy** – Data preparation and analysis
@@ -44,7 +44,7 @@ The dataset contains crime incident records reported by the Montgomery County Po
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Crime Trend](images/crime_trend.png)
 
@@ -54,7 +54,7 @@ The dataset contains crime incident records reported by the Montgomery County Po
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 * Data quality assessment and cleaning
 * Missing value analysis
@@ -66,7 +66,7 @@ The dataset contains crime incident records reported by the Montgomery County Po
 
 ---
 
-## 🚀 Key Insights
+## Key Insights
 
 ### Crime Trends
 
@@ -86,7 +86,7 @@ Silver Spring consistently reports the highest number of incidents among the cit
 
 ---
 
-## 📈 Business Value
+## Business Value
 
 This analysis demonstrates how data analytics can be used to:
 
